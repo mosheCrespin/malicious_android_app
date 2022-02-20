@@ -1,0 +1,193 @@
+
+-----OS and Device Info-----: 
+
+---->Device: generic_x86
+---->SDK Version: 30
+---->user-visible version string: 11
+---->FingerPrint: Android/sdk_phone_x86/generic_x86:11/RSR1.210210.001.A1/7193139:userdebug/dev-keys
+---->Screen width: 768
+---->Screen height: 1184
+---->Model: Android SDK built for x86
+---->Product Name: sdk_phone_x86
+---->Incremental: 7193139
+---->Supported 32bit ABIs (ordered) : 
+-------->x86
+-------->armeabi-v7a
+-------->armeabi
+---->Supported 64bit ABIs (ordered) : None
+---->DISPLAY : sdk_phone_x86-userdebug 11 RSR1.210210.001.A1 7193139 dev-keys
+---->HARDWARE : ranchu
+---->HOST : abfarm-east4-071
+---->ID : RSR1.210210.001.A1
+-------
+
+------Installed Apps on the current Android Phone------
+---->com.android.cts.priv.ctsshim
+---->com.android.internal.display.cutout.emulation.corner
+---->com.android.internal.display.cutout.emulation.double
+---->com.android.providers.telephony
+---->com.android.dynsystem
+---->com.android.theme.icon.pebble
+---->com.android.providers.calendar
+---->com.android.providers.media
+---->com.android.internal.systemui.navbar.gestural_wide_back
+---->com.android.wallpapercropper
+---->com.android.theme.icon.vessel
+---->com.android.theme.color.cinnamon
+---->com.android.theme.icon_pack.rounded.systemui
+---->com.android.theme.icon.taperedrect
+---->com.android.documentsui
+---->com.android.externalstorage
+---->com.android.htmlviewer
+---->com.android.companiondevicemanager
+---->com.android.quicksearchbox
+---->com.android.mms.service
+---->com.android.providers.downloads
+---->com.android.messaging
+---->com.android.systemui.auto_generated_rro_product__
+---->com.android.theme.icon_pack.rounded.android
+---->com.android.networkstack.tethering.emulator
+---->com.android.theme.icon_pack.circular.themepicker
+---->com.google.android.overlay.googlewebview
+---->com.android.timezone.updater
+---->com.android.providers.downloads.ui
+---->com.android.vending
+---->com.android.pacprocessor
+---->com.android.simappdialog
+---->com.android.networkstack
+---->com.android.internal.display.cutout.emulation.hole
+---->com.android.internal.display.cutout.emulation.tall
+---->com.android.modulemetadata
+---->com.android.certinstaller
+---->com.android.theme.color.black
+---->com.android.carrierconfig
+---->com.android.theme.color.green
+---->com.android.theme.color.ocean
+---->com.android.theme.color.space
+---->com.android.internal.systemui.navbar.threebutton
+---->android
+---->com.android.contacts
+---->com.android.camera2
+---->com.android.theme.icon_pack.rounded.launcher
+---->com.MagicDate
+---->com.android.egg
+---->com.android.mtp
+---->com.android.nfc
+---->com.android.ons
+---->com.android.stk
+---->com.android.launcher3
+---->com.android.backupconfirm
+---->com.android.internal.systemui.navbar.twobutton
+---->com.android.provision
+---->com.android.statementservice
+---->com.android.settings.intelligence
+---->com.android.calendar
+---->com.android.internal.systemui.navbar.gestural_extra_wide_back
+---->com.android.emulator.radio.config
+---->com.android.providers.settings
+---->com.android.sharedstoragebackup
+---->com.android.printspooler
+---->com.android.theme.icon_pack.filled.settings
+---->com.android.dreams.basic
+---->com.android.providers.settings.auto_generated_rro_product__
+---->com.android.se
+---->com.android.inputdevices
+---->com.android.bips
+---->com.android.theme.icon_pack.circular.settings
+---->com.android.musicfx
+---->com.google.android.apps.maps
+---->com.android.internal.display.cutout.emulation.emu01
+---->com.android.cellbroadcastreceiver
+---->com.google.android.webview
+---->com.android.theme.icon.teardrop
+---->android.ext.shared
+---->com.android.onetimeinitializer
+---->com.android.server.telecom
+---->com.android.cellbroadcastservice
+---->com.android.theme.icon_pack.rounded.themepicker
+---->com.android.keychain
+---->com.android.service.ims
+---->com.android.printservice.recommendation
+---->com.android.dialer
+---->com.android.gallery3d
+---->com.android.theme.icon_pack.filled.systemui
+---->com.google.android.gms
+---->com.google.android.gsf
+---->android.ext.services
+---->com.android.wifi.resources
+---->com.android.calllogbackup
+---->com.android.safetyregulatoryinfo
+---->com.android.localtransport
+---->com.android.packageinstaller
+---->com.android.carrierdefaultapp
+---->com.android.theme.font.notoserifsource
+---->com.android.theme.icon_pack.filled.android
+---->com.android.proxyhandler
+---->com.android.internal.display.cutout.emulation.waterfall
+---->com.android.theme.icon_pack.circular.systemui
+---->com.android.inputmethod.latin
+---->org.chromium.webview_shell
+---->com.android.managedprovisioning
+---->com.android.networkstack.tethering
+---->com.android.soundpicker
+---->com.android.dreams.phototable
+---->com.android.carrierconfig.auto_generated_rro_product__
+---->com.android.emulator.multidisplay
+---->com.android.providers.partnerbookmarks
+---->com.android.service.ims.presence
+---->com.android.wallpaper.livepicker
+---->com.android.cellbroadcastreceiver.module
+---->com.android.apps.tag
+---->com.google.android.overlay.emulatorgmsconfig
+---->com.android.theme.icon.squircle
+---->com.google.android.sdksetup
+---->com.android.storagemanager
+---->com.android.bookmarkprovider
+---->com.android.settings
+---->com.android.theme.icon_pack.filled.launcher
+---->com.android.networkstack.permissionconfig
+---->com.android.cts.ctsshim
+---->com.android.theme.icon_pack.circular.launcher
+---->com.android.vpndialogs
+---->com.android.music
+---->com.android.phone
+---->com.android.shell
+---->com.android.theme.icon_pack.filled.themepicker
+---->com.android.wallpaperbackup
+---->com.android.providers.blockednumber
+---->com.android.providers.userdictionary
+---->com.android.providers.media.module
+---->com.android.emergency
+---->com.android.hotspot2.osulogin
+---->com.android.internal.systemui.navbar.gestural
+---->com.android.location.fused
+---->com.android.theme.color.orchid
+---->com.android.deskclock
+---->com.android.systemui
+---->com.android.theme.color.purple
+---->com.android.bluetoothmidiservice
+---->com.android.permissioncontroller
+---->com.android.traceur
+---->android.auto_generated_rro_product__
+---->com.android.bluetooth
+---->com.android.wallpaperpicker
+---->com.android.providers.contacts
+---->com.android.captiveportallogin
+---->com.android.theme.icon.roundedrect
+---->com.android.internal.systemui.navbar.gestural_narrow_back
+---->com.android.theme.icon_pack.rounded.settings
+---->com.android.theme.icon_pack.circular.android
+
+-----Contacts Info-----
+
+---->Name: Moshe Crespin
+---->Phone Number: 0506977725
+---->E-mail: moshec315@gmail.com
+
+---->Name: Mom
+---->Phone Number: 0505928584
+---->E-mail: mom@gmail.com
+
+---->Name: Zoar
+---->Phone Number: 0520000000
+---->E-mail: zoar@gmail.com
